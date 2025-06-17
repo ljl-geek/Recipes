@@ -18,6 +18,6 @@ By Debbie Gheen Blue
 
 ### Instructions
 
-Place in a pint jar.
-Top with boiling water to 1" headspace.
-Process at 11 psi (adjust for elevation) for 75 minutes
+* Place in a pint jar.
+* Top with boiling water to 1" headspace.
+* Process at 11 psi (adjust for elevation) for 75 minutes

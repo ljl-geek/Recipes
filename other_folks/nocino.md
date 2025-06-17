@@ -1,24 +1,22 @@
 # Nocino - Walnut Liquor
 
-Kayce Heister
+From Kayce Heister
 
 ## Ingredients
-• 1 large jar (I use 1/2 gallon)
-• Gloves 
------------------
+You need 1 large jar (I use 1/2 gallon) and gloves 
 
-• 2-3 pounds fresh green walnuts ( I collect them from the tree)
-• 1 1/2 liters of good quality vodka
-• 3 cups raw honey, sugar or maple syrup
-• 3 cups water 
+* 2-3 pounds fresh green walnuts ( I collect them from the tree)
+* 1 1/2 liters of good quality vodka
+* 3 cups raw honey, sugar or maple syrup
+* 3 cups water 
 
-###SPICES ARE OPTIONAL 
-• 1 vanilla bean
-• 1-2 star anise 
-• 1 cinnamon stick
-• 6 cloves
-• 6 spicebush berries 
-• 1 whole lemon zest 
+### SPICES ARE OPTIONAL 
+* 1 vanilla bean
+* 1-2 star anise 
+* 1 cinnamon stick
+* 6 cloves
+* 6 spicebush berries 
+* 1 whole lemon zest 
 
 ### INSTRUCTIONS 
 

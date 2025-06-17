@@ -15,10 +15,10 @@ from pilahdough
 
 ## Directions
 
-✨Mix all ingredients except flour. Let everything sit for 5 mins while the yeast bubbles then mix flour in. 
-✨Knead flour on the counter (or use a mixer) and work until smooth. 
-✨Let sit until doubled in size (I left mine for almost 2 hours). 
-✨Cut dough and each ball will be around 118g. 
-✨Line baking tray with cornmeal- place dough balls on top and cover to allow for second rise (30 mins). 
-✨Warm skillet on stove- toast muffins then place in heated oven at 350°F and bake for 10 mins. 
-⭐️let cool and enjoy! 
+* Mix all ingredients except flour. Let everything sit for 5 mins while the yeast bubbles then mix flour in. 
+* Knead flour on the counter (or use a mixer) and work until smooth. 
+* Let sit until doubled in size (I left mine for almost 2 hours). 
+* Cut dough and each ball will be around 118g. 
+* Line baking tray with cornmeal- place dough balls on top and cover to allow for second rise (30 mins). 
+* Warm skillet on stove- toast muffins then place in heated oven at 350°F and bake for 10 mins. 
+* Let cool and enjoy! 

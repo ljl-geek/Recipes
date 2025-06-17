@@ -13,7 +13,7 @@ I want you to know that this is not healthy and barely counts as a vegetable sid
 * 1 stick of butter, melted.
 * (Salt and pepper to taste)
 
-## Directions
+### Directions
 
 * In a medium sized casserole dish, combine the broccoli, cream of mushroom soup, and most of the cheese.
 * Salt and pepper to taste.

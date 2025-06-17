@@ -1,31 +1,34 @@
-##Soft and Fluffy Condensed Milk Bread 🍞🥛
-recipessweet.com
+## Soft and Fluffy Condensed Milk Bread 🍞🥛
 
-#Ingredients:
+from recipessweet.com
 
-3 cups all-purpose flour
-1 can (14 oz) sweetened condensed milk
-1 cup warm milk
-2 teaspoons active dry yeast
-¼ cup butter, melted
-½ teaspoon salt
+### Ingredients:
 
-#Instructions:
+* 3 cups all-purpose flour
+* 1 can (14 oz) sweetened condensed milk
+* 1 cup warm milk
+* 2 teaspoons active dry yeast
+* ¼ cup butter, melted
+* ½ teaspoon salt
 
-In a bowl, dissolve yeast in warm milk and let it sit for 5 minutes.
+### Instructions:
 
-In a large mixing bowl, combine flour and salt.
+* In a bowl, dissolve yeast in warm milk and let it sit for 5 minutes.
 
-Add the condensed milk, melted butter, and yeast mixture.
+* In a large mixing bowl, combine flour and salt.
 
-Knead the dough until smooth and elastic, about 10 minutes.
+* Add the condensed milk, melted butter, and yeast mixture.
 
-Place the dough in a greased bowl, cover, and let it rise for 1-2 hours, until doubled.
+* Knead the dough until smooth and elastic, about 10 minutes.
 
-Punch down the dough, shape it into a loaf, and place it in a greased loaf pan.
+* Place the dough in a greased bowl, cover, and let it rise for 1-2 hours, until doubled.
 
-Let it rise again for 30-45 minutes.
+* Punch down the dough, shape it into a loaf, and place it in a greased loaf pan.
 
-Preheat the oven to 350°F (175°C) and bake for 30-35 minutes, until golden.
+* Let it rise again for 30-45 minutes.
 
-#CondensedMilkBread #BakingJoy #HomemadeBread #FluffyBread
+* Preheat the oven to 350°F (175°C) and bake for 30-35 minutes, until golden.
+
+###Hashtags
+
+\#CondensedMilkBread #BakingJoy #HomemadeBread #FluffyBread

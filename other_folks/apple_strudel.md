@@ -1,10 +1,10 @@
-#Apple Strudel
+# Apple Strudel
 
 From Michele Wilson
   ·
 June 17th is National Apple Strudel Day. 
 
-###Ingredients
+### Ingredients
 
 * 1 sheet puff pastry
 * 4 medium Granny Smith apples - sliced and peeled 
@@ -16,7 +16,7 @@ June 17th is National Apple Strudel Day.
 * 1 egg yolk
 * 1 tablespoon water 
 
-#Instructions
+### Instructions
 * In a small bowl mix the egg yolk and the water. 
 * Add the apples, sugar, cinnamon, raisins, allspice and lemon juice together in a medium bowl. Let sit for 15 minutes. 
 * Heat oven to 425°F.

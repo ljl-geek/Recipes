@@ -1,7 +1,8 @@
-#✨Sourdough English muffins 
+# ✨Sourdough English muffins 
+
 from pilahdough
 
-##Ingredients:
+## Ingredients:
 
 * 100g (1/2 cup) lukewarm water
 * 105g (1/2 cup) buttermilk
@@ -12,7 +13,7 @@ from pilahdough
 * 350g (2 1/2 cups) all-purpose flour
 * cornmeal
 
-##Directions
+## Directions
 
 ✨Mix all ingredients except flour. Let everything sit for 5 mins while the yeast bubbles then mix flour in. 
 ✨Knead flour on the counter (or use a mixer) and work until smooth. 

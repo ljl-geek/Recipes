@@ -2,7 +2,7 @@
 
 From Reneé Stevens
 
-###Ingredients
+### Ingredients
 * 1 3/4 Cups All-purpose flour
 * 2/3 Cup Dry milk
 * 2/3 Cup Heavy cream powder
@@ -15,8 +15,8 @@ From Reneé Stevens
 * 1 Teaspoons Dried thyme
 * 1 Teaspoon Dried parsley
 
-###Instructions
+### Instructions
 * Mix all dry ingredients and store in an airtight container.�
 
-###To use:
+### To use:
 • Mix 1/2 cup of Creamy Mushroom Soup Mix with 1.25 Cups of hot water

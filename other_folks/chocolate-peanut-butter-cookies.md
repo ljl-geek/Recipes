@@ -18,6 +18,12 @@ Y’all voted for more holiday recipes yesterday and this cookie sandwich is one
 
 ## Directions:
 * Preheat oven to 350 degrees F.
-* Make Ganache by heating heavy cream in a small pot on medium heat till it comes to a simmer with bubbles. Pour over chocolate and stir. Let it sit to cool while you make your cookies. 
-* Make Cookie by combining brown sugar, peanut butter, egg and vanilla extract in a bowl and mix together with a spoon. Scoop balls of a full 1/2 tbsp in size on a cookie sheet. Press down with fork. Bake for 10-12 minutes. 
-* Let cookies cool. Place ganache in piping bag and pipe ganache on a bottom of a cookie and place a cookie on top. Enjoy! 
+* Make Ganache by heating heavy cream in a small pot on medium heat till it comes to a simmer with bubbles.
+* Pour over chocolate and stir.
+* Let it sit to cool while you make your cookies. 
+* Make Cookie by combining brown sugar, peanut butter, egg and vanilla extract in a bowl and mix together with a spoon.
+* Scoop balls of a full 1/2 tbsp in size on a cookie sheet.
+* Press down with fork.
+* Bake for 10-12 minutes. 
+* Let cookies cool.
+* Place ganache in piping bag and pipe ganache on a bottom of a cookie and place a cookie on top. Enjoy! 

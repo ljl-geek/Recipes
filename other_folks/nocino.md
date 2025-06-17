@@ -2,7 +2,7 @@
 
 Kayce Heister
 
-## NOCINO RECIPE
+## Ingredients
 • 1 large jar (I use 1/2 gallon)
 • Gloves 
 -----------------
@@ -12,7 +12,7 @@ Kayce Heister
 • 3 cups raw honey, sugar or maple syrup
 • 3 cups water 
 
-SPICES ARE OPTIONAL 
+###SPICES ARE OPTIONAL 
 • 1 vanilla bean
 • 1-2 star anise 
 • 1 cinnamon stick
@@ -20,7 +20,7 @@ SPICES ARE OPTIONAL
 • 6 spicebush berries 
 • 1 whole lemon zest 
 
-###INSTRUCTIONS 
+### INSTRUCTIONS 
 
 1. Wearing gloves, chop the green walnuts in half. I usually take my knife, get it wedged in the walnut, and hit it on the cutting board. This seems to do the trick cutting them in half.
 

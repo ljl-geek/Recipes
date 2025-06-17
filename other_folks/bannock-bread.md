@@ -3,6 +3,7 @@
 By gather Victoria 
 
 ### Ingredients
+
 * 1 cup rolled oats
 * 1 cup oat flour
 * 1/4 teaspoon salt
@@ -13,7 +14,9 @@ By gather Victoria
 * 3 tablespoons of sugar (and three more tablespoons for sprinkling)
 * 1 egg yolk (for the caudle)
 
-###Directions
+
+### Directions
+
 * Preheat the oven to 400°F. Grease a cast iron skillet or baking sheet.
 * Place the oats, flour, salt, sugar, rosemary and orange zest in a large bowl, mix together with a fork. Cut the cold butter into the flour mixture. Stir in the cream until all the flour is absorbed.
 * Gather the rough dough together and place on a surface lightly dusted with oat flour. Knead until the dough holds its consistency (but don’t overwork).

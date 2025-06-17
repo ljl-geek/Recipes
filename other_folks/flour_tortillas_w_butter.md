@@ -1,8 +1,8 @@
-#Flour tortillas w butter
+# Flour tortillas w butter
 
 From Catherine Rohr
 
-###Ingredients
+### Ingredients
 
 * 2 cups flour
 * a teaspoon and a quarter salt
@@ -10,7 +10,7 @@ From Catherine Rohr
 * quarter cup of butter
 * two thirds cup of warm water
 
-###Directions
+### Directions
 
 * Mix flour, salt and baking powder. 
 
